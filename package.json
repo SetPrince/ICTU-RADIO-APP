@@ -1,0 +1,24 @@
+{
+  "name": "ictu-radio-app",
+  "version": "1.0.0",
+  "description": "This is a radio and television web app that will hep manage and control the university radio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SetPrince/ICTU-RADIO-APP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SetPrince/ICTU-RADIO-APP/issues"
+  },
+  "homepage": "https://github.com/SetPrince/ICTU-RADIO-APP#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
